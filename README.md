@@ -1,5 +1,6 @@
-# Hi 👋 I'm nowongame!
-I am the creator of some known communities.
+# Hi, my name is Wandal
+📌 # Think Logical
+A basic developer, a great thinker and an innovative child
 
 
 
