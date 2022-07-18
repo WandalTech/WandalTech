@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://wandal.xyz](https://wandal.xyz)
+- 👨‍💻 All of my projects are available at [https://wandal.tech](https://wandal.tech)
 
 - 💬 Ask me about **everything**
 
