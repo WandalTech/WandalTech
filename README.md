@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **everything**
 
-- 📫 How to reach me **info@wandal.xyz**
+- 📫 How to reach me **Discord Wandal#0002**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
