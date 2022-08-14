@@ -1,4 +1,4 @@
-# Hi, WandalTech is here!
+# Hi, Wandal is here!
 creator of some half-known communities.
 
 
