@@ -12,9 +12,11 @@ creator of some half-known communities.
 
   ##
 
-<div align="left">
+<div align="center">
     <a href="https://discord.com/users/3547100158290821332" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/354710015829082133"></a>
 </div>
+
+<br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WandalTech&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WandalTech&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321)](https://github.com/sudis)
