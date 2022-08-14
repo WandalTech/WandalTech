@@ -8,6 +8,9 @@ creator of some half-known communities.
 
 
 
+<div align="center">
+    <a href="https://discord.com/users/3547100158290821332" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/354710015829082133"></a>
+</div>
 
 <h3></h3>
    <a href="https://discord.com/users/354710015829082133" target"blank_"><img src="https://img.shields.io/badge/WandalTech%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
