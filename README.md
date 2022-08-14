@@ -12,7 +12,7 @@ creator of some half-known communities.
 
   ##
 
-<div align="center">
+<div align="left">
     <a href="https://discord.com/users/3547100158290821332" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/354710015829082133"></a>
 </div>
 
