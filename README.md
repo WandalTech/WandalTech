@@ -1,5 +1,5 @@
 # Hi, WandalTech is here!
-creator of some known communities.
+creator of some half-known communities.
 
 
 
@@ -28,6 +28,3 @@ creator of some known communities.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WandalTech&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WandalTech&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321)](https://github.com/sudis)
 
-
-
-""
